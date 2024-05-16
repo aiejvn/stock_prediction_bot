@@ -14,7 +14,6 @@ import seaborn as sns
 
 
 # Preprocess all data
-# Make sure we split before we feature scale train and test (TODO)
 
 
 
